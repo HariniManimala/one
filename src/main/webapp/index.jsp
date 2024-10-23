@@ -10,7 +10,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE ARE DONE WITH CICD PIPELINE</h1>
         <h1 style="color: orange; font-size: 40px;" align="center">WE ARE DONE WITH DEPLOYING THROUGH TOMCAT</h1>
         <h1 style="color: green; font-size: 40px;" align="center">WE ARE DONE WITH AUTOMATION</h1>
-        
+        <h1 style="color: violet; font-size: 40px;" align="center">WE ARE DONE WITH NEXUS</h1>
 
 
 	
