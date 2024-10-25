@@ -11,6 +11,8 @@
         <h1 style="color: orange; font-size: 40px;" align="center">WE ARE DONE WITH DEPLOYING THROUGH TOMCAT</h1>
         <h1 style="color: green; font-size: 40px;" align="center">WE ARE DONE WITH AUTOMATION</h1>
         <h1 style="color: black; font-size: 40px;" align="center">WE ARE DONE WITH NEXUS</h1>
+        <h1 style="color: purple; font-size: 40px;" align="center">WE ARE DONE WITH PIPELINE JOB</h1>
+
 
 
 	
